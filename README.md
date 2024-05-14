@@ -7,9 +7,9 @@ Hello👋, I am Kamran Tariq From Pakistan. I am a Artififcal intellegence Engin
 <button style ><a href = "">Gmail</a></button>
 
 Github profile trophy and github Metrices
-🔭 I’m currently working on: DQN & A2C with GAE
+🔭 I’m currently Complete it now am find an internship.
 
-🌱 I’m currently learning about : Quantum Machine Learning
+🌱 I’m currently learning about :  Machine Learning
 
 👯 I’m looking to collaborate on: Deep Reinforcement learning
 
